@@ -1,0 +1,60 @@
+<svg width="480" height="195" viewBox="0 0 480 195" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#120f1e"/>
+      <stop offset="100%" stop-color="#1c1730"/>
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6ee7f5"/>
+      <stop offset="100%" stop-color="#b9a6ff"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="479" height="194" rx="16" fill="url(#sbg)" stroke="#332b52" stroke-width="1"/>
+
+  <text x="30" y="34" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="16.5" font-weight="700" fill="#f3f0ff">Sakshi's GitHub Stats</text>
+  <text x="30" y="34" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="16.5" fill="transparent"></text>
+
+  
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/>
+      <text x="30" y="46" font-family="'Noto Color Emoji','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="14" fill="#e3ab6f">&#11088;</text>
+      <text x="54" y="46" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="13.5" fill="#9d93c9">Total Stars Earned:</text>
+      <text x="255" y="46" font-family="'JetBrains Mono','Fira Code','Cascadia Code','Segoe UI Mono',ui-monospace,Consolas,monospace" font-size="14" font-weight="700" fill="#f3f0ff">120+</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.18s" fill="freeze"/>
+      <text x="30" y="73" font-family="'Noto Color Emoji','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="14" fill="#e3ab6f">&#128221;</text>
+      <text x="54" y="73" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="13.5" fill="#9d93c9">Total Commits:</text>
+      <text x="255" y="73" font-family="'JetBrains Mono','Fira Code','Cascadia Code','Segoe UI Mono',ui-monospace,Consolas,monospace" font-size="14" font-weight="700" fill="#f3f0ff">950+</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.36s" fill="freeze"/>
+      <text x="30" y="100" font-family="'Noto Color Emoji','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="14" fill="#e3ab6f">&#128256;</text>
+      <text x="54" y="100" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="13.5" fill="#9d93c9">Pull Requests:</text>
+      <text x="255" y="100" font-family="'JetBrains Mono','Fira Code','Cascadia Code','Segoe UI Mono',ui-monospace,Consolas,monospace" font-size="14" font-weight="700" fill="#f3f0ff">60+</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.54s" fill="freeze"/>
+      <text x="30" y="127" font-family="'Noto Color Emoji','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="14" fill="#e3ab6f">&#128027;</text>
+      <text x="54" y="127" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="13.5" fill="#9d93c9">Issues Resolved:</text>
+      <text x="255" y="127" font-family="'JetBrains Mono','Fira Code','Cascadia Code','Segoe UI Mono',ui-monospace,Consolas,monospace" font-size="14" font-weight="700" fill="#f3f0ff">35+</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.72s" fill="freeze"/>
+      <text x="30" y="154" font-family="'Noto Color Emoji','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="14" fill="#e3ab6f">&#128230;</text>
+      <text x="54" y="154" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="13.5" fill="#9d93c9">Repos Contributed To:</text>
+      <text x="255" y="154" font-family="'JetBrains Mono','Fira Code','Cascadia Code','Segoe UI Mono',ui-monospace,Consolas,monospace" font-size="14" font-weight="700" fill="#f3f0ff">25+</text>
+    </g>
+
+  <g transform="translate(400,100)">
+    <circle cx="0" cy="0" r="42" fill="none" stroke="#2a2444" stroke-width="9"/>
+    <circle cx="0" cy="0" r="42" fill="none" stroke="url(#ringGrad)" stroke-width="9" stroke-linecap="round"
+      stroke-dasharray="0 263.9" transform="rotate(-90)">
+      <animate attributeName="stroke-dasharray" from="0 263.9" to="226.9 263.9" dur="1.4s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </circle>
+    <text x="0" y="-2" font-family="'JetBrains Mono','Fira Code','Cascadia Code','Segoe UI Mono',ui-monospace,Consolas,monospace" font-size="20" font-weight="700" fill="#f3f0ff" text-anchor="middle">A+</text>
+    <text x="0" y="16" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="9.5" fill="#9d93c9" text-anchor="middle">RANK</text>
+  </g>
+
+  <text x="30" y="181" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="9.5" fill="#9d93c9" opacity="0.75">sample snapshot &#183; swap in github-readme-stats for live data</text>
+</svg>

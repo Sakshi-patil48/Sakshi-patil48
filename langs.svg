@@ -1,0 +1,83 @@
+<svg width="480" height="195" viewBox="0 0 480 195" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#120f1e"/>
+      <stop offset="100%" stop-color="#1c1730"/>
+    </linearGradient>
+    <clipPath id="barClip"><rect x="30" y="56" width="420" height="14" rx="7"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="479" height="194" rx="16" fill="url(#lbg)" stroke="#332b52" stroke-width="1"/>
+
+  <text x="30" y="34" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="16.5" font-weight="700" fill="#f3f0ff">Most Used Languages</text>
+
+  <rect x="30" y="56" width="420" height="14" rx="7" fill="#2a2444"/>
+  <g clip-path="url(#barClip)">
+    <rect x="30.0" y="56" width="0" height="14" fill="#b9a6ff">
+      <animate attributeName="width" from="0" to="92.4" dur="0.9s" begin="0.00s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+    <rect x="122.4" y="56" width="0" height="14" fill="#6ee7f5">
+      <animate attributeName="width" from="0" to="75.6" dur="0.9s" begin="0.12s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+    <rect x="198.0" y="56" width="0" height="14" fill="#8fd4ff">
+      <animate attributeName="width" from="0" to="67.2" dur="0.9s" begin="0.24s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+    <rect x="265.2" y="56" width="0" height="14" fill="#e3ab6f">
+      <animate attributeName="width" from="0" to="58.8" dur="0.9s" begin="0.36s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+    <rect x="324.0" y="56" width="0" height="14" fill="#f5a3c7">
+      <animate attributeName="width" from="0" to="46.2" dur="0.9s" begin="0.48s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+    <rect x="370.2" y="56" width="0" height="14" fill="#a6c8ff">
+      <animate attributeName="width" from="0" to="42.0" dur="0.9s" begin="0.60s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+    <rect x="412.2" y="56" width="0" height="14" fill="#736a99">
+      <animate attributeName="width" from="0" to="37.8" dur="0.9s" begin="0.72s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+
+  
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.60s" fill="freeze"/>
+      <circle cx="30" cy="92" r="5" fill="#b9a6ff"/>
+      <text x="43" y="96" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="12.5" fill="#9d93c9">C++</text>
+      <text x="226" y="96" font-family="'JetBrains Mono','Fira Code','Cascadia Code','Segoe UI Mono',ui-monospace,Consolas,monospace" font-size="12" fill="#f3f0ff" text-anchor="end">22%</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.68s" fill="freeze"/>
+      <circle cx="240" cy="92" r="5" fill="#6ee7f5"/>
+      <text x="253" y="96" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="12.5" fill="#9d93c9">Python</text>
+      <text x="436" y="96" font-family="'JetBrains Mono','Fira Code','Cascadia Code','Segoe UI Mono',ui-monospace,Consolas,monospace" font-size="12" fill="#f3f0ff" text-anchor="end">18%</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.76s" fill="freeze"/>
+      <circle cx="30" cy="112" r="5" fill="#8fd4ff"/>
+      <text x="43" y="116" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="12.5" fill="#9d93c9">TypeScript</text>
+      <text x="226" y="116" font-family="'JetBrains Mono','Fira Code','Cascadia Code','Segoe UI Mono',ui-monospace,Consolas,monospace" font-size="12" fill="#f3f0ff" text-anchor="end">16%</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.84s" fill="freeze"/>
+      <circle cx="240" cy="112" r="5" fill="#e3ab6f"/>
+      <text x="253" y="116" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="12.5" fill="#9d93c9">Java</text>
+      <text x="436" y="116" font-family="'JetBrains Mono','Fira Code','Cascadia Code','Segoe UI Mono',ui-monospace,Consolas,monospace" font-size="12" fill="#f3f0ff" text-anchor="end">14%</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.92s" fill="freeze"/>
+      <circle cx="30" cy="132" r="5" fill="#f5a3c7"/>
+      <text x="43" y="136" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="12.5" fill="#9d93c9">HTML</text>
+      <text x="226" y="136" font-family="'JetBrains Mono','Fira Code','Cascadia Code','Segoe UI Mono',ui-monospace,Consolas,monospace" font-size="12" fill="#f3f0ff" text-anchor="end">11%</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.00s" fill="freeze"/>
+      <circle cx="240" cy="132" r="5" fill="#a6c8ff"/>
+      <text x="253" y="136" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="12.5" fill="#9d93c9">C</text>
+      <text x="436" y="136" font-family="'JetBrains Mono','Fira Code','Cascadia Code','Segoe UI Mono',ui-monospace,Consolas,monospace" font-size="12" fill="#f3f0ff" text-anchor="end">10%</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.08s" fill="freeze"/>
+      <circle cx="30" cy="152" r="5" fill="#736a99"/>
+      <text x="43" y="156" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="12.5" fill="#9d93c9">Other</text>
+      <text x="226" y="156" font-family="'JetBrains Mono','Fira Code','Cascadia Code','Segoe UI Mono',ui-monospace,Consolas,monospace" font-size="12" fill="#f3f0ff" text-anchor="end">9%</text>
+    </g>
+
+  <text x="30" y="181" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="9.5" fill="#9d93c9" opacity="0.75">sample distribution &#183; based on primary tech stack</text>
+</svg>

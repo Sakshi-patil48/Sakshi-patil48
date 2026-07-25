@@ -1,25 +1,136 @@
-# 💫 About Me:
-Hi, I'm Sakshi Patil, a Computer Science Engineering student passionate about building innovative software solutions.<br><br>focused on Full-Stack Development, Python, and AI.<br><br> Passionate about creating user-friendly applications and solving real-world problems through technology.
-<br><br>Currently, I'm focused on developing full-stack applications, integrating AI into web solutions, and expanding my expertise in modern development frameworks, cloud technologies, and best software engineering practices.<br><br>I believe that great software is built through curiosity, consistency, and a user-first mindset<br><br>Core Interests: Full-Stack Development • Artificial Intelligence • Prompt Engineering • Python • UI/UX Design • APIs • Cloud Technologies • Open Source • Problem Solving
- 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakshiii__patilll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sakshipatil-cse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshipatil25819@gmail.com) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
+  <img alt="Sakshi Patil — banner" src="banner.svg" width="100%">
+</picture>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sakshi-patil48&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sakshi-patil48&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sakshi-patil48&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="lanyard.svg" alt="Sakshi Patil developer ID badge" width="260">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sakshi-patil48&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/><br/>
 
----
-[![](https://komarev.com/ghpvc/?username=Sakshi-patil48&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Email](https://img.shields.io/badge/sakshipatil25819%40gmail.com-b9a6ff?style=for-the-badge&logo=gmail&logoColor=161028)](mailto:sakshipatil25819@gmail.com)
+[![GitHub](https://img.shields.io/badge/Sakshi--patil48-161028?style=for-the-badge&logo=github&logoColor=b9a6ff)](https://github.com/Sakshi-patil48)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+## About Me
+
+I'm a Computer Science Engineering student and full-stack developer who likes turning ideas into working products — from the database schema up to the pixel-perfect UI. Equal parts curious about how things work under the hood and eager to actually ship them.
+
+- 🎓 Computer Science Engineering Student
+- 💻 Full-Stack Developer
+- 🌱 Always learning something new in the stack
+- ☕ Fueled by coffee, curiosity, and clean commits
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=161028)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=161028)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=161028)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+<table>
+  <tr>
+    <td><img src="stats.svg" alt="GitHub stats" width="100%"></td>
+    <td><img src="langs.svg" alt="Most used languages" width="100%"></td>
+  </tr>
+</table>
+
+<img src="trophies.svg" alt="Achievements" width="100%">
+
+</div>
+
+> Stats, languages, and achievement cards above are locally-generated static SVGs — sample values so nothing depends on a live API. Swap in real numbers any time by editing the source, or point them at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for live data.
+
+<br/>
+
+## Contribution Snake 🐍
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakshi-patil48/Sakshi-patil48/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakshi-patil48/Sakshi-patil48/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Sakshi-patil48/Sakshi-patil48/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
+
+> The snake animates itself daily via `github-snake.yml` (see setup below) — it isn't a static image.
+
+<br/>
+
+## Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-sakshipatil25819%40gmail.com-6ee7f5?style=flat-square&logo=gmail&logoColor=white)](mailto:sakshipatil25819@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Sakshi--patil48-b9a6ff?style=flat-square&logo=github&logoColor=white)](https://github.com/Sakshi-patil48)
+
+**Code. Coffee. Repeat.**
+
+</div>
+
+<br/>
+
+<details>
+<summary><strong>📦 Setup notes (click to expand)</strong></summary>
+
+<br/>
+
+**File layout** — place these files at the root of your `Sakshi-patil48/Sakshi-patil48` profile repo, alongside this README:
+
+```
+Sakshi-patil48/
+├── README.md
+├── banner.svg
+├── banner-light.svg
+├── lanyard.svg
+├── stats.svg
+├── langs.svg
+├── trophies.svg
+└── .github/
+    └── workflows/
+        └── github-snake.yml
+```
+
+**Enabling the snake animation:**
+1. Move `github-snake.yml` into `.github/workflows/github-snake.yml`.
+2. Push to `main` — the workflow runs automatically on push, on a daily schedule, and can also be triggered manually from the *Actions* tab (`workflow_dispatch`).
+3. It generates the snake SVGs and publishes them to an auto-created `output` branch, which is what the `<picture>` block above points to.
+4. No extra secrets needed — it uses the built-in `GITHUB_TOKEN`. Just make sure *Settings → Actions → General → Workflow permissions* is set to **"Read and write permissions"**.
+
+**All animations** in `banner.svg`, `banner-light.svg`, `lanyard.svg`, `stats.svg`, `langs.svg`, and `trophies.svg` are pure SMIL/CSS inside the SVGs — no JavaScript, no GIFs, so they render natively wherever GitHub displays an `<img>`.
+
+</details>
+

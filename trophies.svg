@@ -1,0 +1,65 @@
+<svg width="748" height="155" viewBox="0 0 748 155" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#120f1e"/>
+      <stop offset="100%" stop-color="#1c1730"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="747" height="154" rx="16" fill="url(#tbg)" stroke="#332b52" stroke-width="1"/>
+  <text x="20" y="26" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="14" font-weight="700" fill="#f3f0ff">Achievements</text>
+  
+  <g transform="translate(79.0,78)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-6; 0,0" keyTimes="0;0.5;1" dur="3.2s" begin="0.00s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <circle r="34" fill="none" stroke="#e3ab6f" stroke-width="2" opacity="0.55"/>
+    <circle r="34" fill="#e3ab6f" opacity="0.08"/>
+    <text y="10" font-family="'Noto Color Emoji','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="26" text-anchor="middle">&#127942;</text>
+    <text y="52" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="10.5" font-weight="600" fill="#9d93c9" text-anchor="middle"><tspan x="79.0" dy="0">Star</tspan><tspan x="79.0" dy="14">Striker</tspan></text>
+  </g>
+  <g transform="translate(197.0,78)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.15s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-6; 0,0" keyTimes="0;0.5;1" dur="3.4s" begin="0.15s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <circle r="34" fill="none" stroke="#6ee7f5" stroke-width="2" opacity="0.55"/>
+    <circle r="34" fill="#6ee7f5" opacity="0.08"/>
+    <text y="10" font-family="'Noto Color Emoji','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="26" text-anchor="middle">&#128025;</text>
+    <text y="52" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="10.5" font-weight="600" fill="#9d93c9" text-anchor="middle"><tspan x="197.0" dy="0">Pull</tspan><tspan x="197.0" dy="14">Shark</tspan></text>
+  </g>
+  <g transform="translate(315.0,78)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.30s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-6; 0,0" keyTimes="0;0.5;1" dur="3.6s" begin="0.30s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <circle r="34" fill="none" stroke="#b9a6ff" stroke-width="2" opacity="0.55"/>
+    <circle r="34" fill="#b9a6ff" opacity="0.08"/>
+    <text y="10" font-family="'Noto Color Emoji','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="26" text-anchor="middle">&#127760;</text>
+    <text y="52" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="10.5" font-weight="600" fill="#9d93c9" text-anchor="middle"><tspan x="315.0" dy="0">Polyglot</tspan><tspan x="315.0" dy="14">Coder</tspan></text>
+  </g>
+  <g transform="translate(433.0,78)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-6; 0,0" keyTimes="0;0.5;1" dur="3.8s" begin="0.45s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <circle r="34" fill="none" stroke="#f5a3c7" stroke-width="2" opacity="0.55"/>
+    <circle r="34" fill="#f5a3c7" opacity="0.08"/>
+    <text y="10" font-family="'Noto Color Emoji','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="26" text-anchor="middle">&#9889;</text>
+    <text y="52" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="10.5" font-weight="600" fill="#9d93c9" text-anchor="middle"><tspan x="433.0" dy="0">Quick</tspan><tspan x="433.0" dy="14">Draw</tspan></text>
+  </g>
+  <g transform="translate(551.0,78)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.60s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-6; 0,0" keyTimes="0;0.5;1" dur="4.0s" begin="0.60s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <circle r="34" fill="none" stroke="#8fd4ff" stroke-width="2" opacity="0.55"/>
+    <circle r="34" fill="#8fd4ff" opacity="0.08"/>
+    <text y="10" font-family="'Noto Color Emoji','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="26" text-anchor="middle">&#128218;</text>
+    <text y="52" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="10.5" font-weight="600" fill="#9d93c9" text-anchor="middle"><tspan x="551.0" dy="0">Deep</tspan><tspan x="551.0" dy="14">Diver</tspan></text>
+  </g>
+  <g transform="translate(669.0,78)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.75s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-6; 0,0" keyTimes="0;0.5;1" dur="4.2s" begin="0.75s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <circle r="34" fill="none" stroke="#e3ab6f" stroke-width="2" opacity="0.55"/>
+    <circle r="34" fill="#e3ab6f" opacity="0.08"/>
+    <text y="10" font-family="'Noto Color Emoji','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="26" text-anchor="middle">&#9749;</text>
+    <text y="52" font-family="'Poppins','Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="10.5" font-weight="600" fill="#9d93c9" text-anchor="middle"><tspan x="669.0" dy="0">Coffee</tspan><tspan x="669.0" dy="14">Powered</tspan></text>
+  </g>
+</svg>
