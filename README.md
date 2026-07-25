@@ -57,14 +57,15 @@ I'm a Computer Science Engineering student and full-stack developer who likes tu
 <br/>
 
 ## GitHub Stats
-
 <div align="center">
-<table>
-  <tr>
-    <td><img src="stats.svg" alt="GitHub stats" width="100%"></td>
-    <td><img src="langs.svg" alt="Most used languages" width="100%"></td>
-  </tr>
-</table>
+  <img src="https://github-readme-stats.shion.dev/api?username=Sakshi-patil48&theme=omni&hide_border=false&include_all_commits=true&count_private=true" alt="Sakshi's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sakshi-patil48&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" width="49%" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=Sakshi-patil48&theme=omni&hide_border=false" alt="GitHub Streak" width="100%" />
+</div>
+
+<br/>
+
 
 <img src="trophies.svg" alt="Achievements" width="100%">
 
